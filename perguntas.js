@@ -1,23 +1,22 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Testando seu conhecimento sobre a série brooklyn nine-nine!',
+    'Quantas temporadas a série contêm?'
+    'A série contém 8 temporadas.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Continuando...',
+    'E quatos episódios tem?',
+    'A série tem 153 episódios.')
+
+criaCartao(
+    'Continuando sobre a série',
+    'Qual a data de lançamento série?',
+    'A série foi lançada dia 17 de setembro de 2013
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Continuando...',
+    'Em qual plataforma ela foi lançada pela primeira vez?',
+    'Sua plataforma original de lançamento foi a FOX.'
 )
